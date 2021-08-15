@@ -5,6 +5,7 @@ const Ata: NextPage = (): JSX.Element => {
   return (
     <div>
       <h1>Atamurad</h1>
+      <h2>hello</h2>
     </div>
   )
 }
