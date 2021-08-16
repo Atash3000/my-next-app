@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "proxy": "http://127.0.0.1:5050/",
   "scripts": {
     "start:dev": "nodemon server.js"
   },
